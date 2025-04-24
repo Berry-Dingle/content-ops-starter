@@ -745,5 +745,6 @@ sections:
     type: GenericSection
 seo:
   type: Seo
+  metaTitle: Strona Główna
 type: PageLayout
 ---
