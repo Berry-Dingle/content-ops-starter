@@ -748,6 +748,6 @@ seo:
   metaTitle: Strona Główna
   metaTags:
     - type: MetaTag
-  addTitleSuffix: true
+  addTitleSuffix: false
 type: PageLayout
 ---
