@@ -746,5 +746,7 @@ sections:
 seo:
   type: Seo
   metaTitle: Strona Główna
+  metaTags:
+    - type: MetaTag
 type: PageLayout
 ---
